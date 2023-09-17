@@ -1,5 +1,5 @@
 # Apple-BLE-Spam-
-Disclaimer i did not make this I dont take any gredit for it
+Disclaimer I Did Not Make This I Dont Take Any Credit For It
 Installation Instructions 
 
 Its Also On The Newest Version For Unleshed https://github.com/DarkFlippers/unleashed-firmware/releases/tag/unlshd-063
@@ -7,7 +7,7 @@ Its Also On The Newest Version For Unleshed https://github.com/DarkFlippers/unle
 First Download The Release 
 
 
-Second Download qFlipper app https://flipperzero.one/update
+Second Download qFlipper App https://flipperzero.one/update
 
 
 Third Download Xtream https://github.com/Flipper-XFW/Xtreme-Firmware
